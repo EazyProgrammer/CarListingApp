@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CarListingApp/DesignTimeBuild/.dtbcache.v2
+/.vs/CarListingApp/FileContentIndex/3f7dbf3c-b312-4d81-be97-836d6b2b7a55.vsidx
+*.vsidx
+*.v2
+*.suo
+*.bin
+/CarListingApp.API/bin
+/CarListingApp.API/obj
+/CarListingApp.API/Properties
+/CarListingApp.MAUI.UI/bin/Debug
+/CarListingApp.MAUI.UI/obj
